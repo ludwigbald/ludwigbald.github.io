@@ -2,8 +2,8 @@
 layout: post
 title: a placeholder blog post
 date: 2024-02-26 16:55:16
-description: 
-tags:
+description: placeholder
+tags: placeholder
 categories: sample-posts
 ---
 
