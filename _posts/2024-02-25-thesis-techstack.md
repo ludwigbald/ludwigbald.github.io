@@ -54,7 +54,7 @@ The greatest danger to the success of my thesis project was distraction of all s
 You need focus on all levels:
 - Do commit actual weeks, days and hours to working on your thesis. When the weather's good, it might seem tempting to spend every day outside, but this is a distraction. Make these decisions mindfully.
 - Do only focus on the important tasks. Clarify your research question early on. Don't go on tangents. Don't expand the scope of your research. Do tasks because they help answer the research question, and skip tasks that are interesting but not useful.
-- When working, actually work. Don't let Social Media creep in. Read email once a day. Don't take too many coffee breaks. Don't excessively watch the construction site next door. I pay for [Freedom Pro](freedom.to), which lets me set recurring sessions of blocking distracting websites and apps on both my laptop and my phone.
+- When working, actually work. Don't let Social Media creep in. Read email once a day. Don't take too many coffee breaks. Don't excessively watch the construction site next door. I pay for [Freedom Pro](https://freedom.to), which lets me set recurring sessions of blocking distracting websites and apps on both my laptop and my phone.
 
 
 ## Collaboration
@@ -63,6 +63,7 @@ A thesis is an individual project, but to keep me motivated I need to use the so
 ## Coding
 My project involved working with deep reinforcement learning in a python library, so I naturally used python, gymnasium and pytorch to implement my algorithm and experiments.
 Python's biggest annoyance is package management. For that, I used pip and pipenv, and never really ran into trouble.
+I also used git and github to keep track of my code and thesis project.
 
 I ran the experiments on a Slurm cluster provided by my uni.
 
