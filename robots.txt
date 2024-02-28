@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: ludwigbald.com/sitemap.xml
+Sitemap: https://ludwigbald.com/sitemap.xml
